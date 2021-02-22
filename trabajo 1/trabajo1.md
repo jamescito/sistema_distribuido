@@ -3,9 +3,10 @@ Los sistemas distruibos son una coleccion de host independiente y autónomos con
 de comunicación o bien es una colección de servicios a los que se accede atraves de interfaces basadas en 
 la red.
 
-   Segun lo estudiado y un poco de analice, un sistema distribuido son un conjunto de computadoras conectadas entre si,como sabemos cada una de ella esta en un cierto punto del mundo pues ese es su proposito estar separadas fisicamente para poder abastecer a muchas personas atraves de una misma red.
+   Segun lo estudiado y un poco de analice, un sistema distribuido son un conjunto de computadoras conectadas entre si,como sabemos cada una de ella esta en un cierto punto del mundo pues ese es su proposito estar separadas fisicamente para poder abastecer a muchas empresas atraves de una misma red.
 
-Los sistemas distribuidos son utilizados para muchos casos se podria decir, un ejemplo podria ser los juegos en linea que son multijugador a como sabemos este tipo de juego generalmente se espearce por el mundo es ahi donde la empresa necesita uno de esto. 
+Los sistemas distribuidos son utilizados para muchos casos se podria decir, un ejemplo podria ser los juegos en linea que son multijugador a como sabemos este tipo de juego generalmente se esparce por el mundo es ahi donde la empresa necesita uno de esto, una parte de la estructura es que esta se comunica con una interfaz con conexion de red, cabe recalcar que funciona atravez de de peticiones cliente-servidor usando protocolos.
+
 
 
 
